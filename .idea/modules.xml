@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidKeepAlive.iml" filepath="$PROJECT_DIR$/AndroidKeepAlive.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keepalivelibrary/keepalivelibrary.iml" filepath="$PROJECT_DIR$/keepalivelibrary/keepalivelibrary.iml" />
     </modules>
   </component>
 </project>
